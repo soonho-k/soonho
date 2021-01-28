@@ -10,24 +10,27 @@
 <body>
 	<div id="wrap">
 		<header>
+			
 			<div>
-				<h1 class="logo">
-					<a href="#"><img src="img/logo1.png" alt="로고"></a>
-				</h1>
-				<ul class="gnb">
-					<li>
-						<a href="#">메뉴1</a>
-					</li>
-					<li>
-						<a href="#">메뉴2</a>
-					</li>
-					<li>
-						<a href="#">메뉴3</a>
-					</li>
-					<li>
-						<a href="#">메뉴4</a>
-					</li>
-				</ul>
+				<div class="nav">
+					<h1 class="logo">
+						<a href="#"><img src="img/logo1.png" alt="로고"></a>
+					</h1>
+					<ul class="gnb">
+						<li>
+							<a href="#">메뉴1</a>
+						</li>
+						<li>
+							<a href="#">메뉴2</a>
+						</li>
+						<li>
+							<a href="#">메뉴3</a>
+						</li>
+						<li>
+							<a href="#">메뉴4</a>
+						</li>
+					</ul>
+				</div>
 			</div>
 			
 		</header>
